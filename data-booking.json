@@ -1,0 +1,11 @@
+{
+    "firstname" : "Jefri",
+    "lastname" : "Fahrian",
+    "totalprice" : 245000,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2025-05-20",
+        "checkout" : "2025-05-22"
+    },
+    "additionalneeds" : "Non Smoking Room, Breakfast"
+}
